@@ -1,5 +1,3 @@
-# CoreComposition
-
 ## Introduction (70%)
 
 #### Overview
