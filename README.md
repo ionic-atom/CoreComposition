@@ -1,6 +1,6 @@
 # CS426-CoreComposition
 
-(1) Webpages introducing your game; (70%)
+Webpages introducing your game; (70%)
 
 ##overview
 	
@@ -25,7 +25,7 @@
 	- treat this as an important component in your portfolio
 		if you are interested in finding a game-related job
 
-(2) a video showing the game play (30%)
+a video showing the game play (30%)
 
 ##Video
 
@@ -33,11 +33,11 @@
 		or you can dump image sequence and make a movie from it
 	- embed the movie (e.g. using youtube) to your report above
 
-(3) Optional: a teaser for this game (10%)
+Optional: a teaser for this game (10%)
 
 ##Teaser
 
-(4) Send me a link (e.g. github/google drive/dropbox link) to your source code
+Send me a link (e.g. github/google drive/dropbox link) to your source code
 
 ##Source Code
 	- you can put this link on your webpage if you like to make your game open sourced 
