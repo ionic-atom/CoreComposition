@@ -1,18 +1,18 @@
 # CS426-CoreComposition
 
-Webpages introducing your game; (70%)
+## Introduction (70%)
 
-## overview
+#### Overview
 	
-## main features (why is your game interesting and different)
+#### Main Features (why is your game interesting and different)
 	
-## gameplay (characters and resources)
+#### Gameplay (characters and resources)
 	
-## User Interface & Controls
+#### User Interface & Controls
 	
-## Main difficulties/challenges (both technical and non-technical)
+#### Main Difficulties/Challenges (both technical and non-technical)
 	
-## future plans
+#### Future Plans
 
 	- this outline is similar to your final presentation template
 	- use as many pictures as possible to explain and show your game 
@@ -25,20 +25,17 @@ Webpages introducing your game; (70%)
 	- treat this as an important component in your portfolio
 		if you are interested in finding a game-related job
 
-a video showing the game play (30%)
+## Video (30%)
 
-## Video
-
+	- a video showing the game play
 	- either use screen capture software, e.g., fraps,
 		or you can dump image sequence and make a movie from it
 	- embed the movie (e.g. using youtube) to your report above
 
-Optional: a teaser for this game (10%)
+## Teaser (Optional, 10%)
 
-## Teaser
+## Source Code (Optional)
 
-Send me a link (e.g. github/google drive/dropbox link) to your source code
-
-## Source Code
+	- Send me a link (e.g. github/google drive/dropbox link) to your source code
 	- you can put this link on your webpage if you like to make your game open sourced 
 		but it is not required
