@@ -1,16 +1,16 @@
-## Introduction (70%)
+# Introduction (70%)
 
-#### Overview
+## Overview
 	
-#### Main Features (why is your game interesting and different)
+## Main Features (why is your game interesting and different)
 	
-#### Gameplay (characters and resources)
+## Gameplay (characters and resources)
 	
-#### User Interface & Controls
+## User Interface & Controls
 	
-#### Main Difficulties/Challenges (both technical and non-technical)
+## Main Difficulties/Challenges (both technical and non-technical)
 	
-#### Future Plans
+## Future Plans
 
 	- this outline is similar to your final presentation template
 	- use as many pictures as possible to explain and show your game 
@@ -23,16 +23,16 @@
 	- treat this as an important component in your portfolio
 		if you are interested in finding a game-related job
 
-## Video (30%)
+# Video (30%)
 
 	- a video showing the game play
 	- either use screen capture software, e.g., fraps,
 		or you can dump image sequence and make a movie from it
 	- embed the movie (e.g. using youtube) to your report above
 
-## Teaser (Optional, 10%)
+# Teaser (Optional, 10%)
 
-## Source Code (Optional)
+# Source Code (Optional)
 
 	- Send me a link (e.g. github/google drive/dropbox link) to your source code
 	- you can put this link on your webpage if you like to make your game open sourced 
