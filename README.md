@@ -1,16 +1,16 @@
 # Introduction (70%)
 
-## Overview
+### Overview
 	
-## Main Features (why is your game interesting and different)
+### Main Features (why is your game interesting and different)
 	
-## Gameplay (characters and resources)
+### Gameplay (characters and resources)
 	
-## User Interface & Controls
+### User Interface & Controls
 	
-## Main Difficulties/Challenges (both technical and non-technical)
+### Main Difficulties/Challenges (both technical and non-technical)
 	
-## Future Plans
+### Future Plans
 
 	- this outline is similar to your final presentation template
 	- use as many pictures as possible to explain and show your game 
