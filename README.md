@@ -53,6 +53,9 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 
 ### Future Plans
 
+**Before we go through our future plans, there are none for this game. We are going to use the concepts we learned here and use this as a prototype for another game**
+
+
 	- this outline is similar to your final presentation template
 	- use as many pictures as possible to explain and show your game 
 		pictures of main menu
