@@ -71,7 +71,7 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 	
 # Video (30%)
 
-[![video](https://github.com/ionic-atom/CoreComposition/blob/master/images/playButton.jpg)](https://www.youtube.com/watch?v=eB1H_EouTyU&feature=youtu.be)
+[![video](https://raw.githubusercontent.com/ionic-atom/CoreComposition/master/images/playButton.jpg)](https://www.youtube.com/watch?v=eB1H_EouTyU&feature=youtu.be)
 
 # Source Code (Optional)
 
