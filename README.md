@@ -67,6 +67,19 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 	- treat this as an important component in your portfolio
 		if you are interested in finding a game-related job
 
+# Images
+	![Main Menu](/images/mainmenu.png)
+	![Character] (/images/character.png)
+	![Boss1] (/images/boss1.png)
+	![candyland] (images/candy.png)
+	![Boss2] (/images/boss2.png)
+	![mushroom] (/images/mushroom.png)
+	![Boss3] (/images/boss3.png)
+	![desert] (/images/desert.png)
+	![Boss4] (/images/boss4.png)
+	![mountain] (/images/mountain.png)
+	![Boss5] (/images/boss5.png)
+	
 # Video (30%)
 
 	- a video showing the game play
