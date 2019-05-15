@@ -68,17 +68,17 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 		if you are interested in finding a game-related job
 
 # Images
-	![Main Menu](https://github.com/ionic-atom/CoreComposition/blob/master/images/mainmenu.png)
-	![Character](https://github.com/ionic-atom/CoreComposition/blob/master/images/character.png)
-	![Boss1](https://github.com/ionic-atom/CoreComposition/blob/master/images/boss1.png)
-	![candyland](https://github.com/ionic-atom/CoreComposition/blob/master/images/candy.png)
-	![Boss2](https://github.com/ionic-atom/CoreComposition/blob/master/images/boss2.png)
-	![mushroom](https://github.com/ionic-atom/CoreComposition/blob/master/images/mushroom.png)
-	![Boss3](https://github.com/ionic-atom/CoreComposition/blob/master/images/boss3.png)
-	![desert](https://github.com/ionic-atom/CoreComposition/blob/master/images/desert.png)
-	![Boss4](https://github.com/ionic-atom/CoreComposition/blob/master/images/boss4.png)
-	![mountain](https://github.com/ionic-atom/CoreComposition/blob/master/images/mountain.png)
-	![Boss5](https://github.com/ionic-atom/CoreComposition/blob/master/images/boss5.png)
+	![Main Menu](/images/mainmenu.png)
+	![Character](/images/character.png)
+	![Boss1](/images/boss1.png)
+	![candyland](images/candy.png)
+	![Boss2](/images/boss2.png)
+	![mushroom](/images/mushroom.png)
+	![Boss3](/images/boss3.png)
+	![desert](/images/desert.png)
+	![Boss4](/images/boss4.png)
+	![mountain](/images/mountain.png)
+	![Boss5](/images/boss5.png)
 	
 # Video (30%)
 
