@@ -68,17 +68,17 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 		if you are interested in finding a game-related job
 
 # Images
-	![mainmenu](https://user-images.githubusercontent.com/36140831/57784286-ad6e4800-76fd-11e9-899a-4f5a907edcd5.png)
-	![character](https://user-images.githubusercontent.com/36140831/57784292-afd0a200-76fd-11e9-892b-7e8de262de68.png)
-	![boss1](https://user-images.githubusercontent.com/36140831/57784296-b101cf00-76fd-11e9-857f-a873d9bc28b9.png)
-	![candy](https://user-images.githubusercontent.com/36140831/57784300-b232fc00-76fd-11e9-8943-b204d172541f.png)
-	![boss2](https://user-images.githubusercontent.com/36140831/57784304-b3fcbf80-76fd-11e9-97fa-b7f88269b420.png)
-	![mushroom](https://user-images.githubusercontent.com/36140831/57784309-b65f1980-76fd-11e9-9167-c174bc912c3d.png)
-	![boss3](https://user-images.githubusercontent.com/36140831/57784315-b7904680-76fd-11e9-83d0-88715b3c9713.png)
-	![desert](https://user-images.githubusercontent.com/36140831/57784319-b9f2a080-76fd-11e9-84c4-ba569ab2fc2a.png)
-	![boss4](https://user-images.githubusercontent.com/36140831/57784326-bb23cd80-76fd-11e9-9eb7-9e8e58f7ee81.png)
-	![mountain](https://user-images.githubusercontent.com/36140831/57784335-bd862780-76fd-11e9-863f-0e40445e796e.png)
-	![boss5](https://user-images.githubusercontent.com/36140831/57784338-beb75480-76fd-11e9-80f6-d0ffa667f0b4.png)
+![mainmenu](https://user-images.githubusercontent.com/36140831/57784286-ad6e4800-76fd-11e9-899a-4f5a907edcd5.png)
+![character](https://user-images.githubusercontent.com/36140831/57784292-afd0a200-76fd-11e9-892b-7e8de262de68.png)
+![boss1](https://user-images.githubusercontent.com/36140831/57784296-b101cf00-76fd-11e9-857f-a873d9bc28b9.png)
+![candy](https://user-images.githubusercontent.com/36140831/57784300-b232fc00-76fd-11e9-8943-b204d172541f.png)
+![boss2](https://user-images.githubusercontent.com/36140831/57784304-b3fcbf80-76fd-11e9-97fa-b7f88269b420.png)
+![mushroom](https://user-images.githubusercontent.com/36140831/57784309-b65f1980-76fd-11e9-9167-c174bc912c3d.png)
+![boss3](https://user-images.githubusercontent.com/36140831/57784315-b7904680-76fd-11e9-83d0-88715b3c9713.png)
+![desert](https://user-images.githubusercontent.com/36140831/57784319-b9f2a080-76fd-11e9-84c4-ba569ab2fc2a.png)
+![boss4](https://user-images.githubusercontent.com/36140831/57784326-bb23cd80-76fd-11e9-9eb7-9e8e58f7ee81.png)
+![mountain](https://user-images.githubusercontent.com/36140831/57784335-bd862780-76fd-11e9-863f-0e40445e796e.png)
+![boss5](https://user-images.githubusercontent.com/36140831/57784338-beb75480-76fd-11e9-80f6-d0ffa667f0b4.png)
 	
 # Video (30%)
 
