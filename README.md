@@ -1,3 +1,7 @@
+# Video (30%)
+
+[![playButton](https://user-images.githubusercontent.com/36118506/57821573-09b58400-775f-11e9-88ab-63a97d0a8672.jpg)](https://www.youtube.com/watch?v=eB1H_EouTyU&feature=youtu.be)
+
 # Introduction (70%)
 
 ### Overview
@@ -68,10 +72,6 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 ![boss4](https://user-images.githubusercontent.com/36140831/57784326-bb23cd80-76fd-11e9-9eb7-9e8e58f7ee81.png)
 ![mountain](https://user-images.githubusercontent.com/36140831/57784335-bd862780-76fd-11e9-863f-0e40445e796e.png)
 ![boss5](https://user-images.githubusercontent.com/36140831/57784338-beb75480-76fd-11e9-80f6-d0ffa667f0b4.png)
-	
-# Video (30%)
-
-[![playButton](https://user-images.githubusercontent.com/36118506/57821573-09b58400-775f-11e9-88ab-63a97d0a8672.jpg)](https://www.youtube.com/watch?v=eB1H_EouTyU&feature=youtu.be)
 
 # Source Code (Optional)
 
