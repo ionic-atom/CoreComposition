@@ -71,7 +71,7 @@ Attacking (Dashing) - Is done by tapping the space bar which will increase your 
 	
 # Video (30%)
 
-[For Trailer - Click Here](https://www.youtube.com/watch?v=eB1H_EouTyU&feature=youtu.be)
+[![playButton](https://user-images.githubusercontent.com/36118506/57821573-09b58400-775f-11e9-88ab-63a97d0a8672.jpg)](https://www.youtube.com/watch?v=eB1H_EouTyU&feature=youtu.be)
 
 # Source Code (Optional)
 
