@@ -1,6 +1,6 @@
 # Video (30%)
 
-[![playButton](https://user-images.githubusercontent.com/36118506/57821573-09b58400-775f-11e9-88ab-63a97d0a8672.jpg)](https://www.youtube.com/watch?v=eB1H_EouTyU&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eB1H_EouTyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Introduction (70%)
 
